@@ -9,10 +9,18 @@ I am using my invitation as a way to learn and test my skills.
 
 ### How does it work?
 
-You are dropped into a terminal and given up to 5 levels of challenges from what I have seen so far.    
+You are dropped into a terminal and given up to 5 levels of challenges from what I have seen so far.   
+
+![foo.bar terminal](assets/foo-bar.png)
+
 You can only solve 1 level at a time.    
 The first level is easy but I've heard the last few are challenging with a focus on algorithms and mathematics.
+
+### How will I be solving the challenges?
+
+Since I know Python and am learning Go. My solutions will be in both languages.
 
 ### Why share?
 
 I want to share my programming journey with others and have a place where I can look back on and appreciate the journey 😄
+
